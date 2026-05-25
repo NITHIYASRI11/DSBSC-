@@ -72,9 +72,11 @@ plot(t,s);
 
 Output Graph
 
-<img width="1912" height="1052" alt="image" src="https://github.com/user-attachments/assets/30e875a6-fc31-464d-a3f6-73215cbb0416" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31888f51-c16d-4708-9160-2050c5f88477" />
+
 
 Tablular Column
+<img width="1600" height="948" alt="image" src="https://github.com/user-attachments/assets/097c3471-29e3-413a-8d40-7ebeab8813b1" />
 
 
 Result
